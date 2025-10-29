@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Reinforcement Learning Agent",
+  "description": "A web application that visualizes a Q-Learning agent navigating a grid world with patrolling enemies. Users can adjust hyperparameters, edit obstacles, and watch the trained agent perform.",
+  "requestFramePermissions": []
+}
